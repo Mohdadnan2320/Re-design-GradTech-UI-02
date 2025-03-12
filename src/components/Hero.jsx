@@ -2,14 +2,14 @@ import React from "react";
 
 const Hero = () => {
   return (
-    <div className="w-full bg-[url(bg.webp)] bg-center bg-cover">
+    <div className="w-full bg-[url(/bg.webp)] bg-center bg-cover">
       <div className="w-full h-full bg p-5">
         <div className="mt-5">
           <h1 className="text-5xl text-[var(--color-white)] font-bold tracking-tight leading-tight md:whitespace-nowrap md:text-6xl lg:text-7xl xl:text-8xl">
             Bridging the Gap Between{" "}
           </h1>
           <h1 className="text-5xl text-[var(--color-white)]  font-bold tracking-tight leading-tight md:whitespace-nowrapp md:text-6xl lg:text-7xl xl:text-8xl">
-            Academia and Industry:{" "}
+            Academic and Industry:{" "}
           </h1>
           <h1 className="text-5xl text-[var(--color-white)]  font-bold tracking-tight leading-tight md:whitespace-nowrapp md:text-6xl lg:text-7xl xl:text-8xl">
             Secure Your{" "}
